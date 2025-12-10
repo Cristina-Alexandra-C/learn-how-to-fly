@@ -2,7 +2,7 @@
 
 A high-conversion, one-page sales website designed to market a digital aviation guidebook. This project demonstrates responsive web design, semantic HTML structure, and conversion-focused UX patterns.
 
-🔗 **Live Demo:** [Insert your GitHub Pages Link Here]
+🔗 **Live Demo:** [https://github.com/Cristina-Alexandra-C/learn-how-to-fly.git]
 
 ##  Project Objective
 To create an SEO-friendly landing page that guides users through a sales tunnel:
@@ -40,3 +40,4 @@ The design uses a "Sky & Freedom" aesthetic with a modern, high-contrast palette
 **Captain Kenji Sato** (Fictional Persona)
 
 *Created by [Conț Cristina-Alexandra]*
+
